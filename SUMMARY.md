@@ -1,14 +1,14 @@
+
+
+       
 # Summary
 
-* [Part I](README.md)
-  * [Project](README.md)
-  * [Introduction](README.md)
-  * [First Chapter](chapter1.md)
-* [Second Chapter](second_chapter.md)
-  * [第一节](1-1.md)
-* [Block Relaxation](blockrelaxation/README.md)
-   * [First Examples](blockrelaxation/first.md)
-      * [Two-block Least Squares](blockrelaxation/bls.md)
-      * test
-       
+### Part I
+
+* [Part I](part1/README.md)
+    * [Writing is nice](part1/README.md#writing)
+    * [GitBook is nice](part1/README.md#gitbook)
+* [Part II](part2/README.md)
+    * [We love feedback](part2/README.md#feedback)
+    * [Better tools for authors](part2/README.md#tools)
 
